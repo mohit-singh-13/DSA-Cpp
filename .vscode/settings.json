@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "*.jsx": "javascriptreact",
+        "*.js": "javascript",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "unordered_map": "cpp",
+        "xstring": "cpp",
+        "list": "cpp",
+        "utility": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "queue": "cpp",
+        "stack": "cpp",
+        "vector": "cpp",
+        "xhash": "cpp",
+        "xlocinfo": "cpp",
+        "xtree": "cpp",
+        "xutility": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}
